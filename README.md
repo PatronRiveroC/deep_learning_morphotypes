@@ -4,7 +4,7 @@
 Carlos Patron-Rivero* & Carlos Yañez-Arenas*
 
 
-![](Data/fig1.png)
+![](Data/fig1.1.png)
 
 ---
 
