@@ -22,3 +22,6 @@ The delimitation of morphotypes in cryptic lineages exposes the fundamental limi
 - Morphology  
 - Phenotypes  
 
+## Cite:
+
+Patron-Rivero, C. & Yañez-Arenas, C. (2026). Graph autoencoders and community detection algorithms to improve polymorphic identification. Submitted
