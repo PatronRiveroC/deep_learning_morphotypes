@@ -186,16 +186,7 @@ print(res_df.to_string(
 
 # ------------------------------------------------------------------------------------------------ #
 
-import networkx as nx
-
-with torch.no_grad():
-    z_final = modelo.encode(x_tensor, adj_tensor)
-    A_reconstructed = torch.sigmoid(modelo.decode(z_final)).numpy()
-
-A_reconstructed_binary = (A_reconstructed > 0.5).astype(int)
-np.fill_diagonal(A_reconstructed_binary, 0)
-
-G = nx.from_numpy_array(A_reconstructed_binary)
+G = nx.from_numpy_array(A)
 G.remove_edges_from(nx.selfloop_edges(G))
 
 num_nodes = G.number_of_nodes()
