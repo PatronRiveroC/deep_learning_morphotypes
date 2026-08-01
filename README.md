@@ -24,4 +24,4 @@ The delimitation of morphotypes in cryptic lineages exposes the fundamental limi
 
 ## Cite:
 
-Patron-Rivero, C. & Yañez-Arenas, C. (2026). Graph autoencoders and community detection algorithms to improve polymorphic identification. Submitted
+**Carlos Patron-Rivero**, Carlos Yañez-Arenas, Graph autoencoders and community detection algorithms to improve polymorphic identification, Biology Methods and Protocols, Volume 11, Issue 1, 2026, bpag022, https://doi.org/10.1093/biomethods/bpag022
